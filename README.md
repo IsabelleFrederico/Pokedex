@@ -10,8 +10,11 @@
 ![image](https://user-images.githubusercontent.com/76170319/115942328-129d4d00-a480-11eb-9a38-c14dd9d582e1.png)
 
 - Detalhes
+![detalhes](https://user-images.githubusercontent.com/77753437/116606606-5b815580-a907-11eb-839b-abf549c18e18.png)
 
 - Batalha
+![image](https://user-images.githubusercontent.com/77753437/116606577-50c6c080-a907-11eb-902c-44f6e7d52e92.png)
+
 
 
 ### Ferrementas utilizadas
