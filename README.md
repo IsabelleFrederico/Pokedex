@@ -34,5 +34,6 @@
 <table>
   <tr style="border: none;">
   <td align="center"><a href="https://github.com/adryanefernandes"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/76170319?s=400&u=c79a37b29d25709e380c64ae9d9432b35f72638e&v=4" width="100px;" alt=""/><br /><sub><b>Adryane Fernandes</b></sub></a><br />
+  <td align="center"><a href="https://github.com/pedrovitors"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/77745664?v=4" width="100px;" alt=""/><br /><sub><b>Pedro Vitor de Souza</b></sub></a><br />
   </tr>
 </table>
