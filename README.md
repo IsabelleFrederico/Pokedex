@@ -22,6 +22,10 @@
 - js
 - css
 
+### O que não funciona: 
+- Na batalha é necessário 3 clicks até começar a funcionar a contagem dos ataques
+- código não responsivo
+
 ### Integrantes
 <b>Design da página detalhes, batalha e código</b> 
 <table>
